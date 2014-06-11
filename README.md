@@ -2,7 +2,7 @@ Add-SGminer-5-Miner-To-BAMT
 ========================
 
 ## WARNING THIS IS A DEV CHAIN
-## WILL UPDATE AS NEW VERSION ARRIVE
+## WILL UPDATE AS NEW VERSIONS ARRIVE
 
 This is script will install SGminer 5 multi algorithm miner within BAMT 1.6.0
 
