@@ -22,9 +22,9 @@ cd /etc/bamt/
 patch /etc/bamt/bamt.conf <<.
 116a117
 >   cgminer_opts: --api-listen --config /etc/bamt/sgminer-5.conf
-126a128
+124a126
 >   # Sgminer 5 - Multi-Algo
-132a135
+130a133
 >   miner-sgminer-5: 1
 .
 patch /opt/bamt/common.pl <<.

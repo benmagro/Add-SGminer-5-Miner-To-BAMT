@@ -3,7 +3,14 @@ Add-SGminer-5-Miner-To-BAMT
 
 This is script will install SGminer 5 multi algorithm miner within BAMT 1.6.0
 
+## WARNING THIS IS A DEV CHAIN. WILL UPDATE AS NEW VERSIONS ARRIVE
+
 #Supported Algorithm
+
+* Scrypt N Factor - "zuikkis"
+* X11 - "darkcoin-mod"
+* X13 - "marucoin-mod"
+* SHA3(Keccak) - "maxcoin"
 
 #Instructions
 
