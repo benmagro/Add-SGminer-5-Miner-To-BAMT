@@ -5,6 +5,7 @@ cp config.patch /tmp/
 cd /opt/miners/
 git clone https://github.com/sgminer-dev/sgminer.git sgminer-5
 cd /opt/miners/sgminer-5
+git checkout v5_0
 cp /opt/miners/sgminer-4.1.0-sph//ADL_SDK/* /opt/miners/sgminer-5/ADL_SDK/
 make clean
 sleep 5
