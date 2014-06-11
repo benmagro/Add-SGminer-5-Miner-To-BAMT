@@ -38,6 +38,7 @@ mv /tmp/config.patch /etc/bamt/
 cd /etc/bamt/
 patch /etc/bamt/sgminer-5.conf < config.patch
 rm config.patch
+sync
 echo 'SGMiner 5 Installed.'
 echo 'Please review your /etc/bamt/bamt.conf to enable.'
 echo 'Configure /etc/bamt/sgminer-5.conf with a pool'
