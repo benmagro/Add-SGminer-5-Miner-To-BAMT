@@ -10,6 +10,7 @@ This is script will install SGminer 5 multi algorithm miner within BAMT 1.6.0
 * Scrypt N Factor - "zuikkis"
 * X11 - "darkcoin-mod"
 * X13 - "marucoin-mod"
+* X15 - "bitblock"
 * SHA3(Keccak) - "maxcoin"
 
 #Instructions
